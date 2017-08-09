@@ -1,0 +1,26 @@
+#myCarousel {
+	margin-top: 60px;
+}
+
+.carousel-caption {
+	font-size: 24px;
+}
+
+.carousel-caption h4 {
+	font-size: 32px;
+}
+
+#myCarousel .item { height: 400px; }
+
+#slide1 {
+	background: url('http://theviewspaper.net/wp-content/uploads/00-Years-Of-Indian-Cinema.jpg') top center no-repeat;
+	
+}
+
+#slide2 {
+	background: url('http://ste.india.com/sites/default/files/styles/zm_700x400/public/2014/08/11/249532-collage-gh-26.jpg?itok=fF1RtbGK') top center no-repeat;
+}
+
+#slide3 {
+	background: url('../../images/carousel_medium_03.jpg') top center no-repeat;
+}

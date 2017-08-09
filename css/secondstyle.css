@@ -1,0 +1,28 @@
+.jumbotron
+{
+	background-image: url('http://images.mapsofindia.com/my-india/2015/04/history-of-indian-cinema-665x347.jpg');
+	color: #ffff80;
+	height: 450px;
+	background-attachment: fixed;
+	margin-top: 100px;
+}
+.col-md-8
+{
+	margin-top: 50px;
+	font-size: 70px;
+}
+.col-md-4
+{
+	margin-top: 100px;
+	padding-bottom: 100px;
+}
+.col-md-6
+{
+	margin-top: 25px;
+	padding-bottom: 70px;
+
+}
+.Footer-ul li
+{
+	display: inline-block;
+}
