@@ -1,3 +1,8 @@
+/*
+----------------------------------------------
+jumbo section
+----------------------------------------------
+*/
 .jumbotron
 {
 	background-image: url('http://images.mapsofindia.com/my-india/2015/04/history-of-indian-cinema-665x347.jpg');
@@ -6,6 +11,16 @@
 	background-attachment: fixed;
 	margin-top: 100px;
 }
+/*
+----------------------------------------------
+End of jumbo section
+----------------------------------------------
+*/
+/*
+----------------------------------------------
+column section
+----------------------------------------------
+*/
 .col-md-8
 {
 	margin-top: 50px;
@@ -22,7 +37,77 @@
 	padding-bottom: 70px;
 
 }
+/*
+----------------------------------------------
+End of column section
+----------------------------------------------
+*/
+/*
+----------------------------------------------
+Footer section
+----------------------------------------------
+*/
 .Footer-ul li
 {
 	display: inline-block;
+}
+/*
+----------------------------------------------
+End of footer
+----------------------------------------------
+*/
+/*
+----------------------------------------------
+Carousel section
+----------------------------------------------
+*/
+
+#myCarousel {
+	margin-top: 60px;
+}
+
+.carousel-caption {
+	font-size: 24px;
+}
+
+#myCarousel .item { height: 600px; }
+
+.imgcarousel1, .imgcarousel2, .imgcarousel3
+{
+	width: 100%;
+}
+/*
+----------------------------------------------
+End of carousel section
+----------------------------------------------
+*/
+.above_jobo
+{
+	background-color: black;
+	color:#800000;
+	width: 100%;
+	margin-top: 50px;
+	height: 100px;
+	font-size: 80px;
+	font-style: Sans-serif;
+}
+.listclass1
+{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+.listclass2
+{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+.listclass3
+{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+.listclass4
+{
+	padding-left: 20px;
+	padding-top: 12px;
 }
